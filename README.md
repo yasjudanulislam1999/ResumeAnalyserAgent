@@ -18,8 +18,8 @@ At the end it prints the top 2 and bottom 2 candidates with their score and deta
 ## Setup
 
 ```bash
-git clone https://github.com/yasjudanulislam1999/ResumeAnalyser.git
-cd ResumeAnalyser
+git clone https://github.com/yasjudanulislam1999/ResumeAnalyserAgent.git
+cd ResumeAnalyserAgent
 uv sync
 ```
 
